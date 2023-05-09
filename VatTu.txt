@@ -1,0 +1,61 @@
+15
+1
+Vat Tu Mm
+Cm
+1383
+VT11
+VT 111
+Thung
+999
+VT98
+Vat Tu 999
+95
+10
+VT1
+Vat Tu So 2
+Bao
+751
+VT4
+Vat Tu 4
+Cai
+3
+VT8
+Vat Tu Tam
+Kg
+30
+À
+Vat Tu 1
+Cm
+6
+VT7
+Vat Tu 7
+Cai
+120
+VT6
+Vat Tu 6
+Bao
+600
+VT5
+Vat Tu 5
+Cai
+250
+VT3
+Vat Tu 3
+Bao
+114
+VT2
+Vat Tu 2
+Cai
+339
+VT12
+Vat Tu 12
+Cai
+12
+VT112
+Vat Tu 11
+Cai
+10
+VT0
+Vat Tu Sua R
+2
+0
